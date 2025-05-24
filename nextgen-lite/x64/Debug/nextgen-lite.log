@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Muhammed\Downloads\nextgen-lite\nextgen-lite\nextgen-lite\main.cpp(33,9): warning C4005: 'COLOR_BACKGROUND': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9578,9):
+      see previous definition of 'COLOR_BACKGROUND'
+  
+  nextgen-lite.vcxproj -> C:\Users\Muhammed\Downloads\nextgen-lite\nextgen-lite\x64\Debug\nextgen-lite.exe
